@@ -11,6 +11,3 @@ nomes = [ "do",
 
 for i in nomes:
     print(i)
-
-
-    
